@@ -1,0 +1,8 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "express": "^4.18.2"
+  }
+}
